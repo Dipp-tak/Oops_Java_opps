@@ -1,6 +1,11 @@
  class variable {
     public static void main(String[] args) {
-        int age = 25, AGE = 25;
-        System.out.println(age);
-        System.out.println(AGE);
+        int myInt = 25;
+        double myDouble = 3.4;
+        float myFloat = 25.4F;
+        System.out.println(myInt);
+        System.out.println(myDouble);
+        System.out.println(myFloat);
+       
     }
+}
